@@ -27,7 +27,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 @st.cache_data
 def load_data():
-    url = "train.csv"
+    url = "titanicdataset.csv"
     df = pd.read_csv(url)
     df.columns = ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 
                   'Ticket', 'Fare', 'Cabin', 'Embarked']
