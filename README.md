@@ -3,7 +3,7 @@
 This project is a comprehensive case study on the famous Titanic dataset. It combines **statistical analysis**, **feature engineering**, **machine learning**, and an interactive **Streamlit app** to explore passenger survival predictions.
 
  **Live App**: [Titanic Prediction App](https://titanic-statistical-analysis-prediction-hok7vkjvuqgbjce6vxpbaa.streamlit.app/)  
- **Dataset**: [`titanicdataset.csv`](https://github.com/zeeshan-akram-ds/Titanic-Statistical-Analysis-prediction/blob/main/train.csv)
+ **Dataset**: [`titanicdataset.csv`](https://github.com/zeeshan-akram-ds/Titanic-Statistical-Analysis-prediction/blob/main/titanicdataset.csv)
 
 ---
 
